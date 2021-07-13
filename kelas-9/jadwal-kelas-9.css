@@ -1,1 +1,365 @@
-
+#services
+{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(,0,0,0,0.8));
+    background-size: cover;
+    background-position: center;
+    color: #efefef !important;
+    background-attachment: fixed;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#services h1
+{
+    text-align: center;
+    color: #FFFF99 !important;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+#services h1:after
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 300px;
+    margin: 10px auto -250px;
+}
+.services
+{
+    margin-top: 40px;
+}
+p
+{
+  text-align: center;
+  font-size: 25px;
+}
+/*------------Price Plans---------*/
+#price
+{
+  padding: 50px 0;
+  background: #fff;
+}
+.single-price
+{
+  margin: 50px auto;
+  display: inline;
+  float: left;
+  width: 100%;
+  background-color: #fff;
+  transition: 0.5s;
+}
+.single-price:hover
+{
+  box-shadow: 0 2px 20px #333;
+}
+.price-head
+{
+  background-color: #000000;
+  display: inline;
+  float: left;
+  padding: 10px 50px;
+  text-align: center;
+  width: 100%;
+}
+.price-head h2
+{
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding: 5px;
+  text-transform: uppercase;
+}
+.price-head p
+{
+  font-size: 25px;
+  color: #ccc;
+  font-weight: bold;
+  line-height: 30px;
+}
+#price span
+{
+  font-size: 15px;
+}
+.price-content
+{
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 0 0px 0 0px;
+}
+.price-content ul li
+{
+  border-bottom: 2px solid #efefef;
+  padding: 10px 5px;
+  list-style: none;
+}
+ul li: last-child
+{
+  border: none;
+}
+.fa-check-circle
+{
+  color: green;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.fa-times-circle
+{
+  color: red;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.price-button
+{
+  display: inline;
+  float: left;
+  padding: 15px 15px 30px;
+  text-align: center;
+  width: 100%;
+}
+.buy-btn
+{
+  background-color: #2196f3;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 15px;
+  padding: 15px 50px;
+  transition: 0.5s;
+}
+.buy-btn:over
+{
+  border-color: 50px solid #fff;
+  background-color: #3f51b5;
+}
+a
+{
+  text-decoration: none!important;
+  color: #fff!important;
+}
+/*-------- Kelas 8A --------*/
+#aprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#aprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#aprice h1
+{
+  text-align: center;
+}
+/*-------- Kelas 8B --------*/
+#bprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#bprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#bprice h1
+{
+  text-align: center;
+}
+/*-------- Kelas 8C --------*/
+#cprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#cprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#cprice h1
+{
+  text-align: center;
+}
+/*-------- Kelas 8D --------*/
+#dprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#dprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#dprice h1
+{
+  text-align: center;
+}
+/*-------- Kelas 8E --------*/
+#eprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#eprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#eprice h1
+{
+  text-align: center;
+}
+/*-------- Kelas 8F --------*/
+#fprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#fprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#fprice h1
+{
+  text-align: center;
+}
+/*-------- Kelas 8G --------*/
+#gprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#gprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#gprice h1
+{
+  text-align: center;
+}
+/*-------- Kelas 8H --------*/
+#hprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#hprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#hprice h1
+{
+  text-align: center;
+}
+/*-- LINK --*/
+#lprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+}
+#lprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#lprice h1
+{
+  text-align: center;
+}
+#lprice a
+{
+  text-decoration: none!important;
+  color: #000!important;
+}
+/*--- Footer */
+#footer
+{
+  background: #333456;
+  color: #fff;
+  padding: 12px;
+}
+#footer h1
+{
+  color: #fff;
+  font-size: 20px;
+}
+#footer p
+{
+  color: #fff;
+  font-size: 13px;
+}
+#footer a
+{
+  text-decoration: none;
+  color: lightskyblue;
+}
+.fa-user
+{
+  margin: 3px;
+  color: lightblue;
+}
+.fa-instagram
+{
+  margin: 3px;
+  color: #fb3958;
+}
+/*----- BTN TAMBAHN -----*/
+.select-btn
+{
+  background-color: #000;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 15px;
+  padding: 15px 50px;
+  transition: 0.5s;
+}
+.select-button
+{
+  display: inline;
+  float: left;
+  padding: 15px 15px 30px;
+  text-align: center;
+  width: 100%;
+}
