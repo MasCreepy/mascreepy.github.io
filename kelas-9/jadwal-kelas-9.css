@@ -366,3 +366,13 @@ a
 .teks {
   background-color: #efefef;
 }
+.count {
+  z-index: 3;
+  position: absolute;
+  display: inline-block;
+  top: 125px;
+}
+.count p {
+  font-size: 12px;
+  display: inline;
+}
