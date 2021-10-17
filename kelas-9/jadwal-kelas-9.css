@@ -1,3 +1,4 @@
+/*----------------- Services -----------------*/
 #services
 {
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(,0,0,0,0.8));
@@ -33,7 +34,7 @@ p
   text-align: center;
   font-size: 25px;
 }
-/*------------Price Plans---------*/
+/*------------------- Price Plans ----------------*/
 #price
 {
   padding: 50px 0;
@@ -94,6 +95,7 @@ p
   padding: 10px 5px;
   list-style: none;
 }
+/*-------------- Icons ------------*/
 ul li: last-child
 {
   border: none;
@@ -110,6 +112,29 @@ ul li: last-child
   margin-right: 10px;
   font-size: 20px;
 }
+.fa-chevron-circle-up
+{
+  color: yellow;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.fa-exclamation-circle
+{
+  color: black;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.fa-user
+{
+  margin: 3px;
+  color: lightblue;
+}
+.fa-instagram
+{
+  margin: 3px;
+  color: #fb3958;
+}
+/*-------------------- BTN --------------------*/
 .price-button
 {
   display: inline;
@@ -289,15 +314,15 @@ a
 {
   text-align: center;
 }
-/*-- LINK --*/
+/*----- LINK ------*/
 #lprice h1:before
 {
     content: '';
-    background: #3296C8;
+    background: #efefef;
     display: block;
-    height: 3px;
-    width: 325px;
-    margin: -50px auto 50px;
+    height: 0px;
+    width: 0px;
+    margin: 0px;
 }
 #lprice
 {
@@ -313,7 +338,32 @@ a
   text-decoration: none!important;
   color: #000!important;
 }
-/*--- Footer */
+/*-------- Announcement --------*/
+#anprice h1:before
+{
+    content: '';
+    background: #3296C8;
+    display: block;
+    height: 3px;
+    width: 325px;
+    margin: -50px auto 50px;
+    align-items: center;
+}
+#anprice
+{
+  padding: 50px 0;
+  background: #efefef;
+}
+#anprice h1
+{
+  text-align: center;
+}
+#anprice a
+{
+  text-decoration: none!important;
+  color: #000!important;
+}
+/*--------------- Footer --------*/
 #footer
 {
   background: #333456;
@@ -335,20 +385,11 @@ a
   text-decoration: none;
   color: lightskyblue;
 }
-.fa-user
-{
-  margin: 3px;
-  color: lightblue;
-}
-.fa-instagram
-{
-  margin: 3px;
-  color: #fb3958;
-}
-/*----- BTN TAMBAHN -----*/
+
+/*------------- CSS TAMBAHAN ------------*/
 .select-btn
 {
-  background-color: #000;
+  background-color: #fff;
   border-radius: 3px;
   display: inline-block;
   font-size: 15px;
@@ -356,6 +397,23 @@ a
   transition: 0.5s;
 }
 .select-button
+{
+  display: inline;
+  float: left;
+  padding: 15px 15px 30px;
+  text-align: center;
+  width: 100%;
+}
+.annoucement-btn
+{
+  background-color: #fff;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 15px;
+  padding: 15px 50px;
+  transition: 0.5s;
+}
+.announcement-button
 {
   display: inline;
   float: left;
@@ -375,4 +433,24 @@ a
 .count p {
   font-size: 12px;
   display: inline;
+}
+.price-content img
+{
+  width: 290px;
+  height: 255px;
+}
+.ann-btn
+{
+  background-color: #927364;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 15px;
+  padding: 15px 50px;
+  transition: 0.5s;
+  color: #fff;
+}
+.ann-btn:over
+{
+  border-color: 50px solid #fff;
+  background-color: #3f51b5;
 }
