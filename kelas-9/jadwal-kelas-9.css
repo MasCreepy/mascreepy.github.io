@@ -124,6 +124,11 @@ ul li: last-child
   margin-right: 10px;
   font-size: 20px;
 }
+.fa-exclamation-triangle
+{
+  color: red;
+  margin-right: 10px;
+  font-size: 20px;
 .fa-user
 {
   margin: 3px;
