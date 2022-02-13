@@ -12,11 +12,11 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Matematika</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Matematika</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Seni Budaya</li>
                     <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
                   </ul>
                 </div>
@@ -35,12 +35,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Matematika</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Matematika</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Agama</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Agama</li>
                   </ul>
                 </div>
                 <div class="price-button">
@@ -57,12 +57,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] PPKn</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] PPKn</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Jawa</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Jawa</li>
                   </ul>
                 </div>
                 <div class="price-button">
@@ -79,12 +79,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] IPS</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] IPS</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] B.K</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] B.K</li>
                   </ul>
                 </div>
                 <div class="price-button">
@@ -101,10 +101,10 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] Prakarya</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] Prakarya</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Penjas Orkes</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Penjas Orkes</li>
                     <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
                     <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
                   </ul>
@@ -123,12 +123,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] IPS</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] IPS</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Indonesia</li>
                   </ul>
                 </div>
                 <div class="price-button">
@@ -156,12 +156,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] B.K</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] B.K</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Matematika</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Matematika</li>
                   </ul>
                 </div>
                 <div class="price-button">
@@ -179,12 +179,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] Matematika</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] Matematika</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Agama</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Agama</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] PPKn</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] PPKn</li>
                   </ul>
                 </div>
                 <div class="price-button">
@@ -201,12 +201,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Bhs. Jawa</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Bhs. Jawa</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Inggris</li>
                   </ul>
                 </div>
                 <div class="price-button">
@@ -223,12 +223,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] Prakarya</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] Prakarya</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Seni Budaya</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Seni Budaya</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPS</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPS</li>
                   </ul>
                 </div>
                 <div class="price-button">
@@ -245,10 +245,10 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] Penjas Orkes</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] Penjas Orkes</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] IPA</li>
                     <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
                     <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
                   </ul>
@@ -267,12 +267,12 @@
                 </div>
                 <div class="price-content">
                   <ul>
-                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
-                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
-                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPS</li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPS</li>
                   </ul>
                 </div>
                 <div class="price-button">
