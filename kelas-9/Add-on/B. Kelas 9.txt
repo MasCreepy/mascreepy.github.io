@@ -1,0 +1,1154 @@
+    <!------------------------------------------------------------- KELAS 9 A ------------------------------------------------->
+    <section id="aprice">
+        <div class="container">
+          <h1>Kelas 9A</h1>
+          <div class="row">
+            <!-------Senin------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Senin</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <br />
+            <!-------Selasa------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Selasa</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Rabu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Rabu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Kamis------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Kamis</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Jumat------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Jumat</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
+                    <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Sabtu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Sabtu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-button">
+              <a class="select-btn" href="#select">[Back to Select Class]</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!------------------------------------------------------------- KELAS 9 B ------------------------------------------------->
+      <section id="bprice">
+        <div class="container">
+          <h1>Kelas 9B</h1>
+          <div class="row">
+            <!-------Senin------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Senin</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <br />
+            <!-------Selasa------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Selasa</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Rabu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Rabu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Kamis------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Kamis</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Jumat------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Jumat</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
+                    <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Sabtu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Sabtu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-button">
+              <a class="select-btn" href="#select">[ Back to Select Class ]</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!------------------------------------------------------------- KELAS 9 C ------------------------------------------------->
+      <section id="cprice">
+        <div class="container">
+          <h1>Kelas 9C</h1>
+          <div class="row">
+            <!-------Senin------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Senin</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <br />
+            <!-------Selasa------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Selasa</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Rabu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Rabu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Kamis------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Kamis</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Jumat------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Jumat</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
+                    <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Sabtu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Sabtu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-button">
+              <a class="select-btn" href="#select">[ Back to Select Class ]</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!------------------------------------------------------------- KELAS 9 D ------------------------------------------------->
+      <section id="dprice">
+        <div class="container">
+          <h1>Kelas 9D</h1>
+          <div class="row">
+            <!-------Senin------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Senin</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <br />
+            <!-------Selasa------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Selasa</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Rabu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Rabu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Kamis------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Kamis</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Jumat------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Jumat</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
+                    <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Sabtu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Sabtu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-button">
+              <a class="select-btn" href="#select">[ Back to Select Class ]</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!------------------------------------------------------------- KELAS 9 E ------------------------------------------------->
+      <section id="eprice">
+        <div class="container">
+          <h1>Kelas 9E</h1>
+          <div class="row">
+            <!-------Senin------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Senin</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <br />
+            <!-------Selasa------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Selasa</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Rabu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Rabu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Kamis------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Kamis</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Jumat------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Jumat</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
+                    <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Sabtu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Sabtu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-button">
+              <a class="select-btn" href="#select">[ Back to Select Class ]</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!------------------------------------------------------------- KELAS 9 F ------------------------------------------------->
+      <section id="fprice">
+        <div class="container">
+          <h1>Kelas 9F</h1>
+          <div class="row">
+            <!-------Senin------->
+            <div class="col-md-4">
+              <div class=" single-price">
+                <div class="price-head">
+                  <h2>Senin</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <br />
+            <!-------Selasa------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Selasa</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Rabu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Rabu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Kamis------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Kamis</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Jumat------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Jumat</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
+                    <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Sabtu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Sabtu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-button">
+              <a class="select-btn" href="#select">[ Back to Select Class ]</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!------------------------------------------------------------- KELAS 9 G ------------------------------------------------->
+      <section id="gprice">
+        <div class="container">
+          <h1>Kelas 9G</h1>
+          <div class="row">
+            <!-------Senin------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Senin</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <br />
+            <!-------Selasa------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Selasa</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Rabu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Rabu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Kamis------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Kamis</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Jumat------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Jumat</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
+                    <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Sabtu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Sabtu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-button">
+              <a class="select-btn" href="#select">[ Back to Select Class ]</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!------------------------------------------------------------- KELAS 9 H ------------------------------------------------->
+      <section id="hprice">
+        <div class="container">
+          <h1>Kelas 9H</h1>
+          <div class="row">
+            <!-------Senin------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Senin</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <br />
+            <!-------Selasa------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Selasa</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Rabu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Rabu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Kamis------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Kamis</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Jumat------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Jumat</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-times-circle"></i>[10.00 - 10.40] -</li>
+                    <li><i class="fa fa-times-circle"></i>[10.40 - 11.20] -</li>
+                  </ul>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <!-------Sabtu------->
+            <div class="col-md-4">
+              <div class="single-price">
+                <div class="price-head">
+                  <h2>Sabtu</h2>
+                  <p><span></span></p>
+                </div>
+                <div class="price-content">
+                  <ul>
+                    <li><i class="fa fa-check-circle"></i>[07.20 - 08.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.00 - 08.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[08.40 - 09.20] </li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] </li>
+                    <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] </li>
+                  </ul>
+                </div>
+                <div class="price-button">
+                  <a class="buy-btn" href="#select">Link Tujuan</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-button">
+              <a class="select-btn" href="#select">[ Back to Select Class ]</a>
+            </div>
+          </div>
+        </div>
+      </section>
