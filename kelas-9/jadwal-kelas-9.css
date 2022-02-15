@@ -55,7 +55,7 @@ p
 }
 .price-head
 {
-  background-color: #000000;
+  background-color: #E72650;
   display: inline;
   float: left;
   padding: 10px 50px;
@@ -151,7 +151,7 @@ ul li: last-child
 }
 .buy-btn
 {
-  background-color: #2196f3;
+  background-color: #E72650;
   border-radius: 3px;
   display: inline-block;
   font-size: 15px;
