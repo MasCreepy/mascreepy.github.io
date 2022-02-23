@@ -21,7 +21,7 @@
     content: '';
     background: #3296C8;
     /*#3296C8*/
-    display: block;
+    display: inline;
     height: 3px;
     width: 300px;
     margin: 10px auto -250px;
