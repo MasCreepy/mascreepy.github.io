@@ -19,8 +19,7 @@
 #services h1:after
 {
     content: '';
-    background: #3296C8;
-    color: #3296C8;
+    background-color: #4186F9;
     /*#3296C8*/
     display: block;
     height: 3px;
