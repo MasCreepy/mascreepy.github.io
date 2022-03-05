@@ -343,7 +343,7 @@ a
 #lprice a
 {
   text-decoration: none!important;
-  color: #000!important;
+  color: #000;
 }
 /*-------- Announcement --------*/
 #anprice h1:before
@@ -368,7 +368,7 @@ a
 #anprice a
 {
   text-decoration: none!important;
-  color: #000!important;
+  color: #000;
 }
 /*--------------- Footer --------*/
 #footer
