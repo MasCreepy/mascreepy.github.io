@@ -1,0 +1,126 @@
+        <!------------------------------------------------------------- JADWAL PTS ------------------------------------------------->
+    <section id="aprice">
+      <div class="container">
+        <h1>JADWAL PTS KELAS IX</h1>
+        <div class="row">
+          <!-------Senin------->
+          <div class="col-md-4">
+            <div class="single-price">
+              <div class="price-head">
+                <h2>Senin</h2>
+                <p><span></span></p>
+              </div>
+              <div class="price-content">
+                <ul>
+                  <li><i class="fa fa-exclamation-triangle"></i>Online Dirumah</li>
+                  <li><i class="fa fa-check-circle"></i>[07.00 - 08.00] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.15 - 09.15] Pendidikan Agama</li>
+                </ul>
+              </div>
+              <div class="price-button">
+                <a class="buy-btn" href="#select">Link Tujuan</a>
+              </div>
+            </div>
+          </div>
+          <br />
+          <!-------Selasa------->
+          <div class="col-md-4">
+            <div class="single-price">
+              <div class="price-head">
+                <h2>Selasa</h2>
+                <p><span></span></p>
+              </div>
+              <div class="price-content">
+                <ul>
+                  <li><i class="fa fa-exclamation-triangle"></i>Online di Sekolah</li>
+                  <li><i class="fa fa-check-circle"></i>[10.15 - 11.45] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[12.00 - 13.00] PPKn</li>
+                </ul>
+              </div>
+              <div class="price-button">
+                <a class="buy-btn" href="#select">Link Tujuan</a>
+              </div>
+            </div>
+          </div>
+          <!-------Rabu------->
+          <div class="col-md-4">
+            <div class="single-price">
+              <div class="price-head">
+                <h2>Rabu</h2>
+                <p><span></span></p>
+              </div>
+              <div class="price-content">
+                <ul>
+                  <li><i class="fa fa-exclamation-triangle"></i>Online di Sekolah</li>
+                  <li><i class="fa fa-check-circle"></i>[09.45 - 10.45] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[11.00 - 12.00] IPS</li>
+                </ul>
+              </div>
+              <div class="price-button">
+                <a class="buy-btn" href="#select">Link Tujuan</a>
+              </div>
+            </div>
+          </div>
+          <!-------Kamis------->
+          <div class="col-md-4">
+            <div class="single-price">
+              <div class="price-head">
+                <h2>Kamis</h2>
+                <p><span></span></p>
+              </div>
+              <div class="price-content">
+                <ul>
+                  <li><i class="fa fa-exclamation-triangle"></i>Online di Rumah</li>
+                  <li><i class="fa fa-check-circle"></i>[07.00 - 08.30] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.45 - 09.45] Penjas Orkes</li>
+                </ul>
+              </div>
+              <div class="price-button">
+                <a class="buy-btn" href="#select">Link Tujuan</a>
+              </div>
+            </div>
+          </div>
+          <!-------Jumat------->
+          <div class="col-md-4">
+            <div class="single-price">
+              <div class="price-head">
+                <h2>Jumat</h2>
+                <p><span></span></p>
+              </div>
+              <div class="price-content">
+                <ul>
+                  <li><i class="fa fa-exclamation-triangle"></i>Online di Sekolah</li>
+                  <li><i class="fa fa-check-circle"></i>[09.00 - 10.00] Seni Budaya</li>
+                  <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                </ul>
+              </div>
+              <div class="price-button">
+                <a class="buy-btn" href="#select">Link Tujuan</a>
+              </div>
+            </div>
+          </div>
+          <!-------Sabtu------->
+          <div class="col-md-4">
+            <div class="single-price">
+              <div class="price-head">
+                <h2>Sabtu</h2>
+                <p><span></span></p>
+              </div>
+              <div class="price-content">
+                <ul>
+                  <li><i class="fa fa-exclamation-triangle"></i>Online di Sekolah</li>
+                  <li><i class="fa fa-check-circle"></i>[09.45 - 10.45] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[11.00 - 12.00] Bhs. Jawa</li>
+                </ul>
+              </div>
+              <div class="price-button">
+                <a class="buy-btn" href="#select">Link Tujuan</a>
+              </div>
+            </div>
+          </div>
+          <div class="select-button">
+            <a class="select-btn" href="#select">[Back to Select Class]</a>
+          </div>
+        </div>
+      </div>
+    </section>
