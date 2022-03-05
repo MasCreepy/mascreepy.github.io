@@ -167,7 +167,7 @@ ul li: last-child
 a
 {
   text-decoration: none!important;
-  color: #fff!important;
+  color: #fff;
 }
 /*-------- Kelas 8A --------*/
 #aprice h1:before
