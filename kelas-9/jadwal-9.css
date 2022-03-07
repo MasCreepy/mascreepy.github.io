@@ -167,7 +167,7 @@ ul li: last-child
 a
 {
   text-decoration: none!important;
-  color: #fff;
+  color: #fff!important;
 }
 /*-------- Kelas 8A --------*/
 #aprice h1:before
@@ -365,7 +365,7 @@ a
 {
   text-align: center;
 }
-#anprice ul li
+#anprice a
 {
   text-decoration: none!important;
   color: #000;
