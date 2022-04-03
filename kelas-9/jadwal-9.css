@@ -19,7 +19,7 @@
 #services h1:after
 {
     content: '';
-    background-color: #4186F9;
+    background-color: #81EE96;
     /*#3296C8*/
     display: block;
     height: 3px;
@@ -56,7 +56,7 @@ p
 }
 .price-head
 {
-  background-color: #4186F9;
+  background-color: #FFD700;
   display: inline;
   float: left;
   padding: 10px 50px;
