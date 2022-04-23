@@ -8,11 +8,11 @@
       data-n-head="ssr"
       data-hid="description"
       name="description"
-      content="Jadwal Pelajaran Lengkap Kelas 9 || SMP N 5 Sragen"
+      content="Jadwal PTMT Lengkap Kelas 9 || SMP N 5 Sragen"
     />
 
     <title>SMP N 5 Sragen - Jadwal Kelas 9</title>
-    <link rel="stylesheet" href="jadwal-kelas-9.css" />
+    <link rel="stylesheet" href="jadwal-9.css"/>
 
  <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
@@ -31,7 +31,7 @@
     <!-- Navbar-->
     <nav id="navbar" class="navbar navbar-expand-lg navbar-light shadow-sm" style="background-color: #909090">
       <div class="container">
-        <a class="navbar-brand" href="#">Maulana</a>
+        <a class="navbar-brand" href="index.html">Maulana</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -57,7 +57,7 @@
     
     <!-- Marquee -->
     <div class="ann-marquee">
-      <marquee size="30px"> <button><h1>Peringatan! Mohon baca Pengumuman!</h1></button></marquee>
+      <marquee size="30px"> <button><h1>Selamat Menunaikan Ibadah Puasa</h1></button></marquee>
     </div>
     <!-- Akhir Marquee-->
     
@@ -67,7 +67,7 @@
     <!------------------ LINK ----------------------->
     <section id="lprice">
       <div class="container">
-        <div class="count">
+      <div class="count">
         <p>Page View Count</p>
         <img src="https://hitwebcounter.com/counter/counter.php?page=7839763&style=0006&nbdigits=5&type=page&initCount=0" title="Free Counter" alt="web counter"   border="0" />
       </div>
@@ -119,19 +119,18 @@
             <div class="single-price">
               <div class="price-head">
                 <h2>Pengumuman</h2>
-                <p><span>10/01/22</span></p>
+                <p><span>03/04/22</span></p>
               </div>
               <div class="price-content">
-                <ul>
-                  <li><i class="fa fa-exclamation-triangle"></i>Peringatan! Patch v0.2.5 berbeda dengan v0.2.4! Perubahan Jadwal jam pelajaran dan mata pelajaran sudah beralih yang baru diluncurkan oleh sekolah pada tanggal 8 Januari 2022! 
-                    Bagi siapapun yang telah menyalin data jadwal kami, silakan beralih ke jadwal yang baru! </li>
+                <ul
+                  <li><i class="fa fa-exclamation-triangle"></i>= SCHEDULE LIST =<br> • 18 April 2022, Akan Diadakan Ujian Sekolah!!</li>
+                  <li><i class="fa fa-exclamation-circle"></i>New Update Patch v0.2.9 "Ra Niat". Jadwal baru untuk hari Senin, 4 April 2022 dan seterusnya (males update, jadwal ga brubah🙏)</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Dikarenakan kasus COVID-19 menaik, Sekolah menetapkan bahwa PTMT dibagi menjadi 2 sesi.</li>
                   <li><i class="fa fa-exclamation-circle"></i>Beberapa Pengumuman akan terjadi Update, Informasi pengumuman diperoleh dari Pihak OSIS / Sekolah yang telah bekerja sama. Jadi, stay tune untuk menunggu info yang terupdate!</li>
-                  <li><i class="fa fa-exclamation-circle"></i>Patch v0.2.5, Perubahan waktu jadwal, pembenaran bug, dan konsep website.</li>
                   <li><i class="fa fa-exclamation-circle"></i>Bel masuk kelas dan ganti jam pelajaran: 
-                    <br> 1. Bunyi dengan narasi jam pertama, kedua: Untuk Kelas 7 
-                    <br> 2. Bunyi bel teet-teet (2x): Untuk Kelas 8 
-                    <br> 3. Bunyi teet-teet-teet (3x): Untuk Kelas 9 
-                    <br> Demikian info dari petugas bel mata pelajaran.
+                  <li>Sesi 1: <br> Bunyi Narasi Biasa</li>
+                  <li>Sesi 2: <br> Bunyi Narasi Biasa</li>
+                  
                   </li>
                 </ul>
               </div>
@@ -149,14 +148,15 @@
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>Minggu ke-17 [Done]</li>
-                  <li><i class="fa fa-check-circle"></i>Minggu ke-18 [Done]</li>
-                  <li><i class="fa fa-chevron-circle-up"></i>Minggu ke-19 [Ongoing] <br> [ Full Session 1-32 ]</li>
-                  <li><i class="fa fa-times-circle"></i>Minggu ke-20 [Closed]</li>
-                  <li><i class="fa fa-times-circle"></i>Minggu ke-21 [Closed]</li>
-                  <li><i class="fa fa-times-circle"></i>Minggu ke-22 [Closed]</li>
-                  <li><i class="fa fa-times-circle"></i>Minggu ke-23 [Closed]</li>
-                  <li><i class="fa fa-times-circle"></i>Minggu ke-24 [Closed]</li>
+                  <li><i class="fa fa-check-circle"></i>Minggu ke-29 [Done] <br> [ 07 Maret - 12 Maret ] <br> [ PTS ] <br> [ 1-16 | 17-32 ]</li>
+                  <li><i class="fa fa-check-circle"></i>Minggu ke-30 [Done]</li>
+                  <li><i class="fa fa-check-circle"></i>Minggu ke-31 [Done] <br> [ 21 Maret - 26 Maret ] <br> [PAT] <br> [ 1-16 | 17-32 ]</li>
+                  <li><i class="fa fa-check-circle"></i>Minggu ke-32 [Done]</li>
+                  <li><i class="fa fa-check-circle"></i>Minggu ke-33 [Done]</li>
+                  <li><i class="fa fa-chevron-circle-up"></i>Minggu ke-34 [Ongoing] <br> [ 11 April - 16 April ] <br> [ Full Session ]</li>
+                  <li><i class="fa fa-exclamation-triangle"></i>Minggu ke-35 [SCHEDULED] <br> [ 18 April - 23 April ] <br> [ US ] <br> [ Full Session ]</li>
+                  <li><i class="fa fa-times-circle"></i>Minggu ke-36 [Closed]</li>
+                  
                 </ul>
                 <!-- Absen nyh:
 Sesi 1: <br> Senin: 1-16 | 17-32 <br> Selasa: 1-16 | 17-32 <br> Rabu: 1-16 | 17-32 <br> Kamis: 1-16 | 17-32 <br> Jumat: 1-16 | 17-32 <br> Sabtu: 1-16 | 17-32
@@ -182,12 +182,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Matematika</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Seni Budaya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Seni Budaya</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -205,12 +207,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Agama</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Agama</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -227,12 +231,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Jawa</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] PPKn</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Jawa</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] PPKn</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Jawa</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -249,12 +255,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] B.K</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] B.K</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] B.K</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -271,12 +279,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Seni Budaya</li>
-                  <li><i class="fa fa-times-circle"></i>[10.20 - 11.00] -</li>
-                  <li><i class="fa fa-times-circle"></i>[11.00 - 11.40] -</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Penjas Orkes</li>
+                  <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Penjas Orkes</li>
+                  <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -293,12 +303,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Indonesia</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -326,12 +338,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Prakarya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] B.k</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Matematika</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] B.K</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Matematika</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -349,12 +363,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPA</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Agama</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] PPKn</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Agama</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] PPKn</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -371,12 +387,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Inggris</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -393,12 +411,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Seni Budaya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Seni Budaya</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] IPS</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -415,12 +435,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-times-circle"></i>[10.20 - 11.00] -</li>
-                  <li><i class="fa fa-times-circle"></i>[11.00 - 11.40] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                    <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Penjas Orkes</li>
+                    <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPA</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Penjas Orkes</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPA</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -437,12 +459,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] IPS</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -470,12 +494,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPA</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] B.K</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] B.K</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -493,12 +519,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Agama</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Agama</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Agama</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Indonesia</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -515,12 +543,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Seni Budaya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Seni Budaya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Seni Budaya</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -537,12 +567,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Prakarya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Prakarya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Prakarya</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -559,12 +591,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-times-circle"></i>[10.20 - 11.00] -</li>
-                  <li><i class="fa fa-times-circle"></i>[11.00 - 11.40] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                    <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] PPKn</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] IPA</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] PPKn</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -581,12 +615,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] B.K</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Inggris</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -614,12 +650,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Inggris</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -637,12 +675,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] B.K</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Seni Budaya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] B.K</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Seni Budaya</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] B.K</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -659,12 +699,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] IPS</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -681,12 +723,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Matematika</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Matematika</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Matematika</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -703,12 +747,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPS</li>
-                  <li><i class="fa fa-times-circle"></i>[10.20 - 11.00] -</li>
-                  <li><i class="fa fa-times-circle"></i>[11.00 - 11.40] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                    <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Agama</li>
+                    <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPS</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Agama</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPS</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -725,12 +771,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Prakarya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] PPKn</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Prakarya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] PPKn</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Prakarya</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -758,12 +806,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Jawa</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Jawa</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Jawa</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -781,12 +831,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] IPS</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -803,12 +855,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] PPKn</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Indonesia</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -825,12 +879,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Agama</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Agama</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Agama</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -847,12 +903,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Agama</li>
-                  <li><i class="fa fa-times-circle"></i>[10.20 - 11.00] -</li>
-                  <li><i class="fa fa-times-circle"></i>[11.00 - 11.40] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                    <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] PPKn</li>
+                    <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Inggris</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] PPKn</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Inggris</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -869,12 +927,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Seni Budaya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] B.K</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Seni Budaya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] B.K</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Seni Budaya</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -902,12 +962,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] B.K</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Agama</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Matematika</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Agama</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Matematika</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -915,7 +977,6 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
             </div>
           </div>
-          <br />
           <!-------Selasa------->
           <div class="col-md-4">
             <div class="single-price">
@@ -925,12 +986,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] IPA</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] IPA</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -947,12 +1010,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPA</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] IPA</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] IPA</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -969,12 +1034,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] PPKn</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] PPKn</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Inggris</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -991,12 +1058,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Prakarya</li>
-                  <li><i class="fa fa-times-circle"></i>[10.20 - 11.00] -</li>
-                  <li><i class="fa fa-times-circle"></i>[11.00 - 11.40] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                    <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Prakarya</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Bhs. Indonesia</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Prakarya</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1013,12 +1082,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Agama</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Seni Budaya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] B.K</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Seni Budaya</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] B.K</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1046,12 +1117,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] B.K</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] IPS</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] B.K</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] IPS</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1069,12 +1142,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] IPA</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Matematika</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Matematika</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1091,12 +1166,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Inggris</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Inggris</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1113,12 +1190,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Jawa</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Jawa</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1135,12 +1214,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Agama</li>
-                  <li><i class="fa fa-times-circle"></i>[10.20 - 11.00] -</li>
-                  <li><i class="fa fa-times-circle"></i>[11.00 - 11.40] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                    <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Agama</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] Bhs. Inggris</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Agama</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1157,12 +1238,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] PPKn</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Seni Budaya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] PPKn</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Seni Budaya</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Indonesia</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] PPKn</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1190,12 +1273,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Penjas Orkes</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Agama</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Agama</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Agama</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPS</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Penjas Orkes</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Agama</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1213,12 +1298,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Seni Budaya</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Seni Budaya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Seni Budaya</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Matematika</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Seni Budaya</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1235,12 +1322,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] IPA</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Matematika</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Matematika</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Matematika</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] IPA</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] Bhs. Inggris</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Matematika</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1257,12 +1346,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] PPKn</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Jawa</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Jawa</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] PPKn</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Jawa</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] PPKn</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Indonesia</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1279,14 +1370,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] IPS</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] Bhs. Inggris</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] Bhs. Inggris</li>
-                  <li><i class="fa fa-times-circle"></i>[10.20 - 11.00] -</li>
-                  <li><i class="fa fa-times-circle"></i>[11.00 - 11.40] -</li>
-                </ul>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                    <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] IPS</li>
+                    <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] Bhs. Inggris</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
+                    <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                    <li><i class="fa fa-check-circle"></i>[09.20 - 10.00] IPS</li>
+                    <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Bhs. Inggris</li>
+                    <li><i class="fa fa-times-circle"></i>[--.-- - --.--] -</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1303,12 +1394,14 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
               </div>
               <div class="price-content">
                 <ul>
-                  <li><i class="fa fa-check-circle"></i>[07.40 - 08.20] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[08.20 - 09.00] Prakarya</li>
-                  <li><i class="fa fa-check-circle"></i>[09.00 - 09.40] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[09.40 - 10.20] B.K</li>
-                  <li><i class="fa fa-check-circle"></i>[10.20 - 11.00] Bhs. Indonesia</li>
-                  <li><i class="fa fa-check-circle"></i>[11.00 - 11.40] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 2</li>
+                  <li><i class="fa fa-check-circle"></i>[07.30 - 08.10] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[08.10 - 08.50] B.K</li>
+                  <li><i class="fa fa-check-circle"></i>[08.50 - 09.30] Bhs. Indonesia</li>
+                  <li><i class="fa fa-exclamation-circle"></i>Sesi 1</li>
+                  <li><i class="fa fa-check-circle"></i>[10.00 - 10.40] Prakarya</li>
+                  <li><i class="fa fa-check-circle"></i>[10.40 - 11.20] B.K</li>
+                  <li><i class="fa fa-check-circle"></i>[11.20 - 12.00] Bhs. Indonesia</li>
                 </ul>
               </div>
               <div class="price-button">
@@ -1322,7 +1415,7 @@ Sesi 2: <br> Senin: 17-32 | 1-16 <br> Selasa: 17-32 | 1-16 <br> Rabu: 17-32 | 1-
         </div>
       </div>
     </section>
-    <!------------------------------------------------------------- Footer ---------------------------------------------------->
+      <!-------------------------------------------------- Footer ---------------------------------------------------->
     <section id="footer">
       <div class="container text-center">
         <h1>Made by <i class="fa fa-user"></i>MasCreepy</h1>
