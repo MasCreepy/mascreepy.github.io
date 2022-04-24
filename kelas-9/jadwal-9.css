@@ -19,7 +19,7 @@
 #services h1:after
 {
     content: '';
-    background-color: #800020;
+    background-color: #E3242B;
     /*#3296C8*/
     display: block;
     height: 3px;
@@ -373,7 +373,7 @@ a
 /*--------------- Footer --------*/
 #footer
 {
-  background: #333456;
+  background: #028A0F;
   color: #fff;
   padding: 12px;
 }
