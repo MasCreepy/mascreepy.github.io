@@ -19,7 +19,7 @@
 #services h1:after
 {
     content: '';
-    background-color: #81EE96;
+    background-color: #800020;
     /*#3296C8*/
     display: block;
     height: 3px;
@@ -167,7 +167,7 @@ ul li: last-child
 a
 {
   text-decoration: none!important;
-  color: #fff;
+  color: #fff!important;
 }
 /*-------- Kelas 8A --------*/
 #aprice h1:before
